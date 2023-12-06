@@ -1,0 +1,16 @@
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\cs10_structs\cs10_structs\obj\Debug\net5.0\cs10_structs.csproj.AssemblyReference.cache
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\cs10_structs\cs10_structs\obj\Debug\net5.0\cs10_structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\cs10_structs\cs10_structs\obj\Debug\net5.0\cs10_structs.AssemblyInfoInputs.cache
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\cs10_structs\cs10_structs\obj\Debug\net5.0\cs10_structs.AssemblyInfo.cs
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\cs10_structs\cs10_structs\obj\Debug\net5.0\cs10_structs.csproj.CoreCompileInputs.cache
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\cs10_structs\cs10_structs\bin\Debug\net5.0\cs10_structs.exe
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\cs10_structs\cs10_structs\bin\Debug\net5.0\cs10_structs.deps.json
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\cs10_structs\cs10_structs\bin\Debug\net5.0\cs10_structs.runtimeconfig.json
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\cs10_structs\cs10_structs\bin\Debug\net5.0\cs10_structs.runtimeconfig.dev.json
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\cs10_structs\cs10_structs\bin\Debug\net5.0\cs10_structs.dll
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\cs10_structs\cs10_structs\bin\Debug\net5.0\cs10_structs.pdb
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\cs10_structs\cs10_structs\obj\Debug\net5.0\cs10_structs.dll
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\cs10_structs\cs10_structs\obj\Debug\net5.0\refint\cs10_structs.dll
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\cs10_structs\cs10_structs\obj\Debug\net5.0\cs10_structs.pdb
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\cs10_structs\cs10_structs\obj\Debug\net5.0\cs10_structs.genruntimeconfig.cache
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\cs10_structs\cs10_structs\obj\Debug\net5.0\ref\cs10_structs.dll

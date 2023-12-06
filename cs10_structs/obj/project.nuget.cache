@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xkIcmCsoL+ceXJuprDp4KvwQsiPYUnlVUlOCisHzZDz+l0MQpXLi/E4JQXqZ9DFfV7RHzWoGGAZm+8uKfHGK0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AbdoulayePangnonKOUL\\source\\repos\\Jonathan\\cs10_structs\\cs10_structs\\cs10_structs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AbdoulayePangnonKOUL\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\AbdoulayePangnonKOUL\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\AbdoulayePangnonKOUL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\AbdoulayePangnonKOUL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
